@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ehtisham Elahi) [![instagram](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://www.instagram.com/ehti_shigri_006/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:70147617@student.uol.edu.pk) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ehtisham Elahi) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ehti_shigri_006)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:70147617@student.uol.edu.pk) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
